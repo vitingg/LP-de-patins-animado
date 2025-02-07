@@ -142,13 +142,11 @@ section.hero {
   }
 }
 
-
 @keyframes appear {
   to {
     opacity: 1;
   }
 }
-
 
 /* slides */
 @keyframes slideUp {
